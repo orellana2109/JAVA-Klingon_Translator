@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=OpenFile
+comment1.params=
+comment1.target=OpenFile()
+comment2.params=x
+comment2.target=OpenFile(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ prompt()
+comment4.params=inputFile
+comment4.target=boolean\ fileFound(java.lang.String)
+comment5.params=x
+comment5.target=void\ setFile(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getFile()
+numComments=7

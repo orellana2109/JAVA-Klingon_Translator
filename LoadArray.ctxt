@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoadArray
+comment1.params=
+comment1.target=LoadArray()
+comment2.params=wordsArray\ fileName
+comment2.target=void\ LoadArray(java.lang.String[][],\ java.lang.String)
+comment3.params=wordsArray
+comment3.target=void\ printArray(java.lang.String[][])
+numComments=4

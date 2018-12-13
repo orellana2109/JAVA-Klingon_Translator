@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Translator
+comment1.params=wordsArray
+comment1.target=void\ translateKlingon(java.lang.String[][])
+numComments=2
